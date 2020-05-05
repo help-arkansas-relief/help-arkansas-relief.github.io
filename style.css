@@ -1,4 +1,4 @@
 h1{
     text-align: center;
-    color: gradient(red,orange,yellow,green,blue,indigo,pink);
+    color: linear-gradient(red,orange,yellow,green,blue,indigo,pink);
 }
